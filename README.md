@@ -1,2 +1,2 @@
 # FailedJavascriptThing
-Fucked up my JS and thought it was kinda funny
+I was trying to do a cool animation when the player moves but accidentally fucked up and made a sort of drawing program instead. Uploaded here because I thought it was kind of funny
